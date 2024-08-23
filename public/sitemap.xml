@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>/tags/docker/</loc>
+    <loc>http://localhost:1313/tags/docker/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>/tags/docker-compose/</loc>
+    <loc>http://localhost:1313/tags/docker-compose/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>/tags/shell/</loc>
+    <loc>http://localhost:1313/tags/shell/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>/tags/sql/</loc>
+    <loc>http://localhost:1313/tags/sql/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>/posts/sqlserver_em_docker/</loc>
+    <loc>http://localhost:1313/posts/sqlserver_em_docker/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>/tags/sqlserver/</loc>
+    <loc>http://localhost:1313/tags/sqlserver/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>/tags/tutorial/</loc>
+    <loc>http://localhost:1313/tags/tutorial/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>/tags/backup/</loc>
+    <loc>http://localhost:1313/tags/backup/</loc>
     <lastmod>2024-05-07T16:55:49-03:00</lastmod>
   </url><url>
-    <loc>/posts/backup_upload/</loc>
+    <loc>http://localhost:1313/posts/backup_upload/</loc>
     <lastmod>2024-05-07T16:55:49-03:00</lastmod>
   </url><url>
-    <loc>/tags/zsh/</loc>
+    <loc>http://localhost:1313/tags/zsh/</loc>
     <lastmod>2024-05-07T16:55:49-03:00</lastmod>
   </url><url>
-    <loc>/sidebar/</loc>
+    <loc>http://localhost:1313/sidebar/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://pablodeasblog.app/"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
