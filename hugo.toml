@@ -5,13 +5,15 @@ paginate = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 min_version = "0.101.0"
 
+homepage = "https://github.com/lukeorth/poison"
+
 # NOTE: If using Disqus as commenting engine, uncomment and configure this line
 #disqusShortname = "yourDisqusShortname"
 
 [params]
     brand = "Pablo A."                      # name of your site - appears in the sidebar
     brand_image = "/images/image.png"             # path to the image shown in the sidebar
-    description = "Esse é o meu blog de \"Tecnologia\", onde falo sobre assuntos que acho relevante." # Used as default meta description if not specified in front matter
+    description = "Esse é o meu blog de Tecnologia, onde falo sobre assuntos que acho relevante." # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     favicon = "/images/favicon.png"             # path to favicon (defaults to favicon.png)
 

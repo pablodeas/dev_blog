@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://pablodeasblog.app/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/docker/</loc>
+    <loc>https://pablodeasblog.app/tags/docker/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/docker-compose/</loc>
+    <loc>https://pablodeasblog.app/tags/docker-compose/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://pablodeasblog.app/posts/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/shell/</loc>
+    <loc>https://pablodeasblog.app/tags/shell/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sql/</loc>
+    <loc>https://pablodeasblog.app/tags/sql/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sqlserver_em_docker/</loc>
+    <loc>https://pablodeasblog.app/posts/sqlserver_em_docker/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sqlserver/</loc>
+    <loc>https://pablodeasblog.app/tags/sqlserver/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://pablodeasblog.app/tags/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tutorial/</loc>
+    <loc>https://pablodeasblog.app/tags/tutorial/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/backup/</loc>
+    <loc>https://pablodeasblog.app/tags/backup/</loc>
     <lastmod>2024-05-07T16:55:49-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/backup_upload/</loc>
+    <loc>https://pablodeasblog.app/posts/backup_upload/</loc>
     <lastmod>2024-05-07T16:55:49-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/zsh/</loc>
+    <loc>https://pablodeasblog.app/tags/zsh/</loc>
     <lastmod>2024-05-07T16:55:49-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sidebar/</loc>
+    <loc>https://pablodeasblog.app/sidebar/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://pablodeasblog.app/series/</loc>
   </url>
 </urlset>

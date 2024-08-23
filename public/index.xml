@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://pablodeasblog.app/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Aug 2024 21:50:58 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pablodeasblog.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SQL Server com Docker Compose</title>
-      <link>http://localhost:1313/posts/sqlserver_em_docker/</link>
+      <link>https://pablodeasblog.app/posts/sqlserver_em_docker/</link>
       <pubDate>Thu, 22 Aug 2024 21:50:58 -0300</pubDate>
-      <guid>http://localhost:1313/posts/sqlserver_em_docker/</guid>
+      <guid>https://pablodeasblog.app/posts/sqlserver_em_docker/</guid>
       <description>Olá a Todos. Como vocês estão?&#xA;Espero que bem.&#xA;Hoje, temos mais um tutorial e será sobre algo que utilizei e ainda utilizo bastante quando preciso testar novas funcionalidades ou conteúdo relacionado a bancos de dados.&#xA;Será algo mais enxuto, caso queiram um tutorial mais detalhado e completo, podem me mandar uma DM no link que deixarei no final do post.&#xA;Vamos lá!&#xA;1. Docker e Docker Compose Como no título do post mostra, utilizaremos o docker-compose para a criação do nosso ambiente.</description>
     </item>
     <item>
       <title>Backup e Upload com Zsh</title>
-      <link>http://localhost:1313/posts/backup_upload/</link>
+      <link>https://pablodeasblog.app/posts/backup_upload/</link>
       <pubDate>Tue, 07 May 2024 16:55:49 -0300</pubDate>
-      <guid>http://localhost:1313/posts/backup_upload/</guid>
+      <guid>https://pablodeasblog.app/posts/backup_upload/</guid>
       <description>Na era digital de hoje, o backup e a sincronização de dados tornaram-se aspectos cruciais para a manutenção de nossas vidas digitais. Quer se trate de projetos pessoais, documentos de trabalho ou fotos de família, é fundamental garantir que nossos dados estejam seguros e facilmente acessíveis.&#xA;No tutorial de hoje, apresentarei um conjunto de scripts personalizados projetados para automatizar o processo de backup e upload de um diretório específico. Esses scripts, escritos em Zsh e Bash, utilizam ferramentas poderosas como rsync, tar e rclone para agilizar suas tarefas de backup e upload.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/sidebar/</link>
+      <link>https://pablodeasblog.app/sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sidebar/</guid>
+      <guid>https://pablodeasblog.app/sidebar/</guid>
       <description>Pablo Andrade Dev Fullstack </description>
     </item>
   </channel>
