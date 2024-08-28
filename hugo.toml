@@ -5,7 +5,7 @@ paginate = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 min_version = "0.101.0"
 
-homepage = "https://github.com/lukeorth/poison"
+#homepage = "https://github.com/lukeorth/poison"
 
 # NOTE: If using Disqus as commenting engine, uncomment and configure this line
 #disqusShortname = "yourDisqusShortname"
