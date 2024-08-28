@@ -1,4 +1,4 @@
-baseURL = "https://pablodeasblog.app/"
+baseURL = "https://pablodeasblog.netlify.app/"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
