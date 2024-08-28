@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on </title>
-    <link>https://pablodeasblog.app/tags/tutorial/</link>
+    <link>http://localhost:1313/tags/tutorial/</link>
     <description>Recent content in Tutorial on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Aug 2024 21:50:58 -0300</lastBuildDate>
-    <atom:link href="https://pablodeasblog.app/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SQL Server com Docker Compose</title>
-      <link>https://pablodeasblog.app/posts/sqlserver_em_docker/</link>
+      <link>http://localhost:1313/posts/sqlserver_em_docker/</link>
       <pubDate>Thu, 22 Aug 2024 21:50:58 -0300</pubDate>
-      <guid>https://pablodeasblog.app/posts/sqlserver_em_docker/</guid>
+      <guid>http://localhost:1313/posts/sqlserver_em_docker/</guid>
       <description>Olá a Todos. Como vocês estão?&#xA;Espero que bem.&#xA;Hoje, temos mais um tutorial e será sobre algo que utilizei e ainda utilizo bastante quando preciso testar novas funcionalidades ou conteúdo relacionado a bancos de dados.&#xA;Será algo mais enxuto, caso queiram um tutorial mais detalhado e completo, podem me mandar uma DM no link que deixarei no final do post.&#xA;Vamos lá!&#xA;1. Docker e Docker Compose Como no título do post mostra, utilizaremos o docker-compose para a criação do nosso ambiente.</description>
     </item>
   </channel>
