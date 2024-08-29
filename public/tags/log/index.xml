@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Log on </title>
-    <link>http://localhost:1313/tags/log/</link>
+    <link>https://pablodeasblog.netlify.app/tags/log/</link>
     <description>Recent content in Log on </description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Aug 2024 21:04:29 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/log/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 28 Aug 2024 22:00:00 -0300</lastBuildDate>
+    <atom:link href="https://pablodeasblog.netlify.app/tags/log/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Vantagens do Log</title>
-      <link>http://localhost:1313/posts/logging/</link>
-      <pubDate>Thu, 22 Aug 2024 21:04:29 -0300</pubDate>
-      <guid>http://localhost:1313/posts/logging/</guid>
-      <description></description>
+      <title>Registrando Logs em Python</title>
+      <link>https://pablodeasblog.netlify.app/posts/logging/</link>
+      <pubDate>Wed, 28 Aug 2024 22:00:00 -0300</pubDate>
+      <guid>https://pablodeasblog.netlify.app/posts/logging/</guid>
+      <description>Introdução Em projetos, sejam de grande ou pequena escala, é importante se ter registros e informações do que está acontecendo.&#xA;Digamos que você tenha um script em Python que busca dados em um banco de dados e preenche uma planilha automaticamente.&#xA;Script tal que executa esse trabalho em aproximadamente 1s.&#xA;Em um dia comum, nota-se que essa execução tem demorado bem mais que o comum, agora executando em 15s.&#xA;Mas poxa, o que está acontecendo?</description>
     </item>
   </channel>
 </rss>

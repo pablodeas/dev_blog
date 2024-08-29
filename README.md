@@ -1,6 +1,1 @@
-# Dev Blog
-
-To test locally:
-```sh
-hugo server -D
-```
+![blog](src/blog.png)

@@ -2,47 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pablodeasblog.app/</loc>
+    <loc>https://pablodeasblog.netlify.app/</loc>
+    <lastmod>2024-08-28T22:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://pablodeasblog.netlify.app/tags/log/</loc>
+    <lastmod>2024-08-28T22:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://pablodeasblog.netlify.app/tags/logging/</loc>
+    <lastmod>2024-08-28T22:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://pablodeasblog.netlify.app/tags/logs/</loc>
+    <lastmod>2024-08-28T22:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://pablodeasblog.netlify.app/tags/m%C3%B3dulo/</loc>
+    <lastmod>2024-08-28T22:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://pablodeasblog.netlify.app/tags/m%C3%B3dulos/</loc>
+    <lastmod>2024-08-28T22:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://pablodeasblog.netlify.app/posts/</loc>
+    <lastmod>2024-08-28T22:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://pablodeasblog.netlify.app/tags/python/</loc>
+    <lastmod>2024-08-28T22:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://pablodeasblog.netlify.app/posts/logging/</loc>
+    <lastmod>2024-08-28T22:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://pablodeasblog.netlify.app/tags/</loc>
+    <lastmod>2024-08-28T22:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://pablodeasblog.netlify.app/tags/docker/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>https://pablodeasblog.app/tags/docker/</loc>
+    <loc>https://pablodeasblog.netlify.app/tags/docker-compose/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>https://pablodeasblog.app/tags/docker-compose/</loc>
+    <loc>https://pablodeasblog.netlify.app/tags/shell/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>https://pablodeasblog.app/posts/</loc>
+    <loc>https://pablodeasblog.netlify.app/tags/sql/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>https://pablodeasblog.app/tags/shell/</loc>
+    <loc>https://pablodeasblog.netlify.app/posts/sqlserver_em_docker/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>https://pablodeasblog.app/tags/sql/</loc>
+    <loc>https://pablodeasblog.netlify.app/tags/sqlserver/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>https://pablodeasblog.app/posts/sqlserver_em_docker/</loc>
+    <loc>https://pablodeasblog.netlify.app/tags/tutorial/</loc>
     <lastmod>2024-08-22T21:50:58-03:00</lastmod>
   </url><url>
-    <loc>https://pablodeasblog.app/tags/sqlserver/</loc>
-    <lastmod>2024-08-22T21:50:58-03:00</lastmod>
-  </url><url>
-    <loc>https://pablodeasblog.app/tags/</loc>
-    <lastmod>2024-08-22T21:50:58-03:00</lastmod>
-  </url><url>
-    <loc>https://pablodeasblog.app/tags/tutorial/</loc>
-    <lastmod>2024-08-22T21:50:58-03:00</lastmod>
-  </url><url>
-    <loc>https://pablodeasblog.app/tags/backup/</loc>
+    <loc>https://pablodeasblog.netlify.app/tags/backup/</loc>
     <lastmod>2024-05-07T16:55:49-03:00</lastmod>
   </url><url>
-    <loc>https://pablodeasblog.app/posts/backup_upload/</loc>
+    <loc>https://pablodeasblog.netlify.app/posts/backup_upload/</loc>
     <lastmod>2024-05-07T16:55:49-03:00</lastmod>
   </url><url>
-    <loc>https://pablodeasblog.app/tags/zsh/</loc>
+    <loc>https://pablodeasblog.netlify.app/tags/zsh/</loc>
     <lastmod>2024-05-07T16:55:49-03:00</lastmod>
   </url><url>
-    <loc>https://pablodeasblog.app/sidebar/</loc>
+    <loc>https://pablodeasblog.netlify.app/sidebar/</loc>
   </url><url>
-    <loc>https://pablodeasblog.app/series/</loc>
+    <loc>https://pablodeasblog.netlify.app/series/</loc>
   </url>
 </urlset>

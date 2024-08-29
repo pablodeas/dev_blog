@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br">
 <head>
     
 
@@ -70,18 +70,18 @@
 <meta name="twitter:description" content="Esse é o meu blog de Tecnologia, onde falo sobre assuntos que acho relevante." />
 
 
-<base href="https://pablodeasblog.app/" />
-<link rel="canonical" href="https://pablodeasblog.app/" itemprop="url" />
-<meta name="url" content="https://pablodeasblog.app/" />
-<meta name="twitter:url" content="https://pablodeasblog.app/" />
-<meta property="og:url" content="https://pablodeasblog.app/" />
+<base href="https://pablodeasblog.netlify.app/" />
+<link rel="canonical" href="https://pablodeasblog.netlify.app/" itemprop="url" />
+<meta name="url" content="https://pablodeasblog.netlify.app/" />
+<meta name="twitter:url" content="https://pablodeasblog.netlify.app/" />
+<meta property="og:url" content="https://pablodeasblog.netlify.app/" />
 
 
-<meta property="og:updated_time" content="2024-08-22T21:50:58-03:00" />
+<meta property="og:updated_time" content="2024-08-28T22:00:00-03:00" />
 
 
-<link rel="sitemap" type="application/xml" title="Sitemap" href='https://pablodeasblog.app/sitemap.xml' />
-<link href="https://pablodeasblog.app/index.xml" rel="alternate" type="application/rss+xml" title="" />
+<link rel="sitemap" type="application/xml" title="Sitemap" href='https://pablodeasblog.netlify.app/sitemap.xml' />
+<link href="https://pablodeasblog.netlify.app/index.xml" rel="alternate" type="application/rss+xml" title="" />
 
 <meta name="robots" content="index,follow" />
 <meta name="googlebot" content="index,follow" />
@@ -172,12 +172,12 @@
         <div class="sidebar-about">
     <h1 class="brand">
         
-            <a href="https://pablodeasblog.app/">
+            <a href="https://pablodeasblog.netlify.app/">
                 <img src="/images/image.png" alt="brand image">
             </a>
         
         
-            <a href="https://pablodeasblog.app/">
+            <a href="https://pablodeasblog.netlify.app/">
                 <h1>Pablo A.</h1>
             </a>
         
@@ -222,6 +222,18 @@
                 
                         
                 
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
             
         
         
@@ -239,11 +251,15 @@
                         </li>
                         
                             <li class="bullet">
-                                <a href="https://pablodeasblog.app/posts/sqlserver_em_docker/">SQL Server com Docker Compose</a>
+                                <a href="https://pablodeasblog.netlify.app/posts/logging/">Registrando Logs em Python</a>
                             </li>
                         
                             <li class="bullet">
-                                <a href="https://pablodeasblog.app/posts/backup_upload/">Backup e Upload com Zsh</a>
+                                <a href="https://pablodeasblog.netlify.app/posts/sqlserver_em_docker/">SQL Server com Docker Compose</a>
+                            </li>
+                        
+                            <li class="bullet">
+                                <a href="https://pablodeasblog.netlify.app/posts/backup_upload/">Backup e Upload com Zsh</a>
                             </li>
                         
                     
@@ -254,6 +270,18 @@
                 
             
                 
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
                 
                         
                 
@@ -338,7 +366,81 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
     <article class="post">
         <div class="info">
   <h1 class="post-title">
-    <a href="https://pablodeasblog.app/posts/sqlserver_em_docker/">SQL Server com Docker Compose</a>
+    <a href="https://pablodeasblog.netlify.app/posts/logging/">Registrando Logs em Python</a>
+  </h1>
+
+  <div class="headline">
+    <div>
+      
+      
+      <time datetime=" 2024-08-28T22:00:00-0300" class="post-date">
+        August 28, 2024
+      </time>
+      
+      <span> - </span>
+      <span class="reading-time">
+        
+          
+        
+
+        <span>2 mins read</span>
+      </span>
+    </div>
+
+    
+    <ul class="tags">
+      
+      <li class="tag-Python">
+        <a href="https://pablodeasblog.netlify.app/tags/python">Python</a>
+      </li>
+      
+      <li class="tag-Log">
+        <a href="https://pablodeasblog.netlify.app/tags/log">Log</a>
+      </li>
+      
+      <li class="tag-Logging">
+        <a href="https://pablodeasblog.netlify.app/tags/logging">Logging</a>
+      </li>
+      
+      <li class="tag-Logs">
+        <a href="https://pablodeasblog.netlify.app/tags/logs">Logs</a>
+      </li>
+      
+      <li class="tag-Módulos">
+        <a href="https://pablodeasblog.netlify.app/tags/m%C3%B3dulos">Módulos</a>
+      </li>
+      
+      <li class="tag-Módulo">
+        <a href="https://pablodeasblog.netlify.app/tags/m%C3%B3dulo">Módulo</a>
+      </li>
+      
+    </ul>
+    
+  </div>
+
+  
+  
+
+  
+</div>
+
+        
+        Introdução Em projetos, sejam de grande ou pequena escala, é importante se ter registros e informações do que está acontecendo.
+Digamos que você tenha um script em Python que busca dados em um banco de dados e preenche uma planilha automaticamente.
+Script tal que executa esse trabalho em aproximadamente 1s.
+Em um dia comum, nota-se que essa execução tem demorado bem mais que o comum, agora executando em 15s.
+Mas poxa, o que está acontecendo?
+        
+        <div class="read-more-link">
+            <a href="/posts/logging/">Read More…</a>
+        </div>
+        
+        
+    </article>
+    <article class="post">
+        <div class="info">
+  <h1 class="post-title">
+    <a href="https://pablodeasblog.netlify.app/posts/sqlserver_em_docker/">SQL Server com Docker Compose</a>
   </h1>
 
   <div class="headline">
@@ -363,27 +465,27 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
     <ul class="tags">
       
       <li class="tag-sqlserver">
-        <a href="https://pablodeasblog.app/tags/sqlserver">sqlserver</a>
+        <a href="https://pablodeasblog.netlify.app/tags/sqlserver">sqlserver</a>
       </li>
       
       <li class="tag-sql">
-        <a href="https://pablodeasblog.app/tags/sql">sql</a>
+        <a href="https://pablodeasblog.netlify.app/tags/sql">sql</a>
       </li>
       
       <li class="tag-docker">
-        <a href="https://pablodeasblog.app/tags/docker">docker</a>
+        <a href="https://pablodeasblog.netlify.app/tags/docker">docker</a>
       </li>
       
       <li class="tag-docker-compose">
-        <a href="https://pablodeasblog.app/tags/docker-compose">docker-compose</a>
+        <a href="https://pablodeasblog.netlify.app/tags/docker-compose">docker-compose</a>
       </li>
       
       <li class="tag-shell">
-        <a href="https://pablodeasblog.app/tags/shell">shell</a>
+        <a href="https://pablodeasblog.netlify.app/tags/shell">shell</a>
       </li>
       
       <li class="tag-tutorial">
-        <a href="https://pablodeasblog.app/tags/tutorial">tutorial</a>
+        <a href="https://pablodeasblog.netlify.app/tags/tutorial">tutorial</a>
       </li>
       
     </ul>
@@ -413,7 +515,7 @@ Vamos lá!
     <article class="post">
         <div class="info">
   <h1 class="post-title">
-    <a href="https://pablodeasblog.app/posts/backup_upload/">Backup e Upload com Zsh</a>
+    <a href="https://pablodeasblog.netlify.app/posts/backup_upload/">Backup e Upload com Zsh</a>
   </h1>
 
   <div class="headline">
@@ -438,15 +540,15 @@ Vamos lá!
     <ul class="tags">
       
       <li class="tag-Backup">
-        <a href="https://pablodeasblog.app/tags/backup">Backup</a>
+        <a href="https://pablodeasblog.netlify.app/tags/backup">Backup</a>
       </li>
       
       <li class="tag-Zsh">
-        <a href="https://pablodeasblog.app/tags/zsh">Zsh</a>
+        <a href="https://pablodeasblog.netlify.app/tags/zsh">Zsh</a>
       </li>
       
       <li class="tag-Shell">
-        <a href="https://pablodeasblog.app/tags/shell">Shell</a>
+        <a href="https://pablodeasblog.netlify.app/tags/shell">Shell</a>
       </li>
       
     </ul>

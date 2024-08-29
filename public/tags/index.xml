@@ -2,66 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://pablodeasblog.app/tags/</link>
+    <link>https://pablodeasblog.netlify.app/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Aug 2024 21:50:58 -0300</lastBuildDate>
-    <atom:link href="https://pablodeasblog.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 28 Aug 2024 22:00:00 -0300</lastBuildDate>
+    <atom:link href="https://pablodeasblog.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Log</title>
+      <link>https://pablodeasblog.netlify.app/tags/log/</link>
+      <pubDate>Wed, 28 Aug 2024 22:00:00 -0300</pubDate>
+      <guid>https://pablodeasblog.netlify.app/tags/log/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logging</title>
+      <link>https://pablodeasblog.netlify.app/tags/logging/</link>
+      <pubDate>Wed, 28 Aug 2024 22:00:00 -0300</pubDate>
+      <guid>https://pablodeasblog.netlify.app/tags/logging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logs</title>
+      <link>https://pablodeasblog.netlify.app/tags/logs/</link>
+      <pubDate>Wed, 28 Aug 2024 22:00:00 -0300</pubDate>
+      <guid>https://pablodeasblog.netlify.app/tags/logs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Módulo</title>
+      <link>https://pablodeasblog.netlify.app/tags/m%C3%B3dulo/</link>
+      <pubDate>Wed, 28 Aug 2024 22:00:00 -0300</pubDate>
+      <guid>https://pablodeasblog.netlify.app/tags/m%C3%B3dulo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Módulos</title>
+      <link>https://pablodeasblog.netlify.app/tags/m%C3%B3dulos/</link>
+      <pubDate>Wed, 28 Aug 2024 22:00:00 -0300</pubDate>
+      <guid>https://pablodeasblog.netlify.app/tags/m%C3%B3dulos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://pablodeasblog.netlify.app/tags/python/</link>
+      <pubDate>Wed, 28 Aug 2024 22:00:00 -0300</pubDate>
+      <guid>https://pablodeasblog.netlify.app/tags/python/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Docker</title>
-      <link>https://pablodeasblog.app/tags/docker/</link>
+      <link>https://pablodeasblog.netlify.app/tags/docker/</link>
       <pubDate>Thu, 22 Aug 2024 21:50:58 -0300</pubDate>
-      <guid>https://pablodeasblog.app/tags/docker/</guid>
+      <guid>https://pablodeasblog.netlify.app/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker-Compose</title>
-      <link>https://pablodeasblog.app/tags/docker-compose/</link>
+      <link>https://pablodeasblog.netlify.app/tags/docker-compose/</link>
       <pubDate>Thu, 22 Aug 2024 21:50:58 -0300</pubDate>
-      <guid>https://pablodeasblog.app/tags/docker-compose/</guid>
+      <guid>https://pablodeasblog.netlify.app/tags/docker-compose/</guid>
       <description></description>
     </item>
     <item>
       <title>Shell</title>
-      <link>https://pablodeasblog.app/tags/shell/</link>
+      <link>https://pablodeasblog.netlify.app/tags/shell/</link>
       <pubDate>Thu, 22 Aug 2024 21:50:58 -0300</pubDate>
-      <guid>https://pablodeasblog.app/tags/shell/</guid>
+      <guid>https://pablodeasblog.netlify.app/tags/shell/</guid>
       <description></description>
     </item>
     <item>
       <title>Sql</title>
-      <link>https://pablodeasblog.app/tags/sql/</link>
+      <link>https://pablodeasblog.netlify.app/tags/sql/</link>
       <pubDate>Thu, 22 Aug 2024 21:50:58 -0300</pubDate>
-      <guid>https://pablodeasblog.app/tags/sql/</guid>
+      <guid>https://pablodeasblog.netlify.app/tags/sql/</guid>
       <description></description>
     </item>
     <item>
       <title>Sqlserver</title>
-      <link>https://pablodeasblog.app/tags/sqlserver/</link>
+      <link>https://pablodeasblog.netlify.app/tags/sqlserver/</link>
       <pubDate>Thu, 22 Aug 2024 21:50:58 -0300</pubDate>
-      <guid>https://pablodeasblog.app/tags/sqlserver/</guid>
+      <guid>https://pablodeasblog.netlify.app/tags/sqlserver/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>https://pablodeasblog.app/tags/tutorial/</link>
+      <link>https://pablodeasblog.netlify.app/tags/tutorial/</link>
       <pubDate>Thu, 22 Aug 2024 21:50:58 -0300</pubDate>
-      <guid>https://pablodeasblog.app/tags/tutorial/</guid>
+      <guid>https://pablodeasblog.netlify.app/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Backup</title>
-      <link>https://pablodeasblog.app/tags/backup/</link>
+      <link>https://pablodeasblog.netlify.app/tags/backup/</link>
       <pubDate>Tue, 07 May 2024 16:55:49 -0300</pubDate>
-      <guid>https://pablodeasblog.app/tags/backup/</guid>
+      <guid>https://pablodeasblog.netlify.app/tags/backup/</guid>
       <description></description>
     </item>
     <item>
       <title>Zsh</title>
-      <link>https://pablodeasblog.app/tags/zsh/</link>
+      <link>https://pablodeasblog.netlify.app/tags/zsh/</link>
       <pubDate>Tue, 07 May 2024 16:55:49 -0300</pubDate>
-      <guid>https://pablodeasblog.app/tags/zsh/</guid>
+      <guid>https://pablodeasblog.netlify.app/tags/zsh/</guid>
       <description></description>
     </item>
   </channel>
